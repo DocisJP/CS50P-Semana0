@@ -180,7 +180,6 @@ Nota la `f` en `print(f"hello, {name}")`. Esta `f` es un indicador especial para
 
 ---
 
-Claro, Juampi. Aquí tienes la traducción del texto listo para armar un PDF:
 
 ---
 
